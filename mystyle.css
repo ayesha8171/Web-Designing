@@ -1,0 +1,7 @@
+body{background-color: deepskyblue;color: beige}
+h1{color: blue;
+    text-shadow: 2px 2px;
+    border: 2px solid black;
+margin-left:20px;}
+p{color: chartreuse;
+font-family: serif(rgb(188, 129, 129) serif);}
